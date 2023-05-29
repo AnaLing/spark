@@ -6,6 +6,7 @@ EL objetivo es tener una visión global de varios aspectos:  <br />
 - El día con más afluencia en cada mes.  <br />
 - La estación más popular en cada mes. <br />
 - El mes con mayor demanda en el alquiler de bicicletas. <br />
+
 Con estos datos se pretende establecer medidas de marketing para mejorar la eficiencia en el servicio de alquiler. <br />
 **Ejecución del problema en Spark** <br />
 Hemos definido las funciones con las que obtendremos los datos que queremos. <br />
