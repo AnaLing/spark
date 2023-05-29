@@ -2,10 +2,10 @@ Laura Bodas López y Ana Ling Fernández Barba  <br />
 **Planteamiento del problema**  <br />
 Vamos a usar los datos de Bicimad del año 2017, en donde están recopilados los datos de los meses desde abril hasta diciembre. Los datos que hemos usado de cada línea son el id del ususario, el id de la estación, el día, el mes, el año y la hora de cada alquiler de bicicleta.  <br />
 EL objetivo es tener una visión global de varios aspectos:  <br />
-- La franja horaria en la que más se alquilan las bicicletas.  <br />
-- El día con más afluencia en cada mes.  <br />
-- La estación más popular en cada mes. <br />
-- El mes con mayor demanda en el alquiler de bicicletas. <br />
+- La franja horaria en la que más y menos se alquilan las bicicletas.  <br />
+- El día con más y menos afluencia en cada mes.  <br />
+- La estación más y menos popular en cada mes. <br />
+- El mes con mayor y menor demanda en el alquiler de bicicletas. <br />
 
 Con estos datos se pretende establecer medidas de marketing para mejorar la eficiencia en el servicio de alquiler. <br /> <br /> 
 **Ejecución del problema en Spark** <br />
