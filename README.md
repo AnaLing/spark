@@ -1,4 +1,4 @@
-#Laura Bodas López y Ana Ling Fernández Barba  <br />
+Laura Bodas López y Ana Ling Fernández Barba  <br />
 **Planteamiento del problema**  <br />
 Vamos a usar los datos de Bicimad del año 2017, en donde están recopilados los datos de los meses desde abril hasta diciembre. Los datos que hemos usado de cada línea son el id del ususario, el id de la estación, el día, el mes, el año y la hora de cada alquiler de bicicleta.  <br />
 EL objetivo es tener una visión global de varios aspectos:  <br />
